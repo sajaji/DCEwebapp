@@ -16,8 +16,13 @@ This project serves as a starting point for building web APIs with .NET Core and
 ## Key Technologies and Concepts:
 
 .NET Core
+
 ADO.NET for database access
+
 RESTful API design
+
 Entity Framework Core (EF Core)
+
 ASP.NET Core Web API
+
 SQL Server database
